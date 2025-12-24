@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working on being a better Full Stack developer using next.js and node.js for the front end and backend,<br>I can also work with frameworks like Django and mainly use TypeScript, I have some experience with Data Science using<br>Python to train models on My Rasberry Pi 4, <br><hr><br>What I'm Currently Working on:<br><br>My Own Portfolio Website<br>Some Machine Learning Models using Drones<br><hr><br>What Im Currently Learning:<br>Robotics<br>C++<br><br>
+I'm Currently working on being a better Full Stack developer using next.js and node.js for the front end and backend,<br>I can also work with frameworks like Django and mainly use TypeScript, I have some experience with Data Science using<br>Python to train models on My Rasberry Pi 4, <br><hr><br>What I'm Currently Working on:<br><br>My Own Portfolio Website<br>Some Machine Learning Models using Drones<br>A lua backend web development framework called Flux <br> <hr><br>What Im Currently Learning:<br>Robotics<br>C++<br><br>
 
 
 ## 🌐 Socials:
