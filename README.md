@@ -6,7 +6,7 @@ I'm Currently working on being a better Full Stack developer using next.js and n
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dahiruhammajam@gmail.com) 
 
 ## Links
- Link to Flux Dev logs and tutorials: [Flux Youtube]((https://www.youtube.com/@FluxLua_develops))
+ Link to Flux Dev logs and tutorials: [Flux Youtube](www.youtube.com/@FluxLua_develops)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
