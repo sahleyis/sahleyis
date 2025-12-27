@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm Currently working on being a better Full Stack developer using next.js and node.js for the front end and backend,<br>I can also work with frameworks like Django and mainly use TypeScript, I have some experience with Data Science using<br>Python to train models on My Rasberry Pi 4, <br><hr><br>What I'm Currently Working on:<br><br>My Own Portfolio Website<br>Some Machine Learning Models using Drones<br>A lua backend web development framework called Flux with @NotTaco3 <br> <hr><br>What Im Currently Learning:<br>Robotics<br>C++<br><br>
+I'm Currently working on being a better Full Stack developer using next.js and node.js for the front end and backend,<br>I can also work with frameworks like Django and mainly use TypeScript, I have some experience with Data Science using<br>Python to train models on My Rasberry Pi 4, <br><hr><br>What I'm Currently Working on:<br><br>My Own Portfolio Website<br>Some Machine Learning Models using Drones<br>A lua backend web development framework called Flux with [Taco_develops](github.com/NotTaco3) <br> <hr><br>What Im Currently Learning:<br>Robotics<br>C++<br><br>
 
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dahiruhammajam@gmail.com) 
 
 ## Links
- Link to Flux Dev logs and tutorials: [YouTube]([www.youtube.com](https://www.youtube.com/@FluxLua_develops))
+ Link to Flux Dev logs and tutorials: [Flux Youtube]((https://www.youtube.com/@FluxLua_develops))
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
