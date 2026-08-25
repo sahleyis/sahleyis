@@ -1,9 +1,9 @@
-# 💫 About Me:
+#  About Me:
 I'm Currently working on being a C++ developer in order to get better at Robotics and Embedded Systems,<br>I can also work with frameworks like Django and mainly use TypeScript with next.js, I have some experience with Data Science using<br>Python to train models on My Rasberry Pi 4, <br><hr><br>What I'm Currently Working on:<br><br>C++ Projects <br>Robotics<br>Embedded Systems <br> Game Engines
  <br> <hr><br>What Im Currently Learning:<br>Robotics<br>C++<br><br>
 
 
-## 🌐 Socials:
+##  Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dahiruhammajam@gmail.com) 
 
 ## Links
@@ -11,7 +11,7 @@ I'm Currently working on being a C++ developer in order to get better at Robotic
 
 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -26,7 +26,7 @@ I'm Currently working on being a C++ developer in order to get better at Robotic
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <img width="97.5" height="28" alt="Screenshot 2025-12-25 051130" src="https://github.com/user-attachments/assets/eac9360b-f335-48fa-99d2-9129d4ab7301" />
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sahleyis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sahleyis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahleyis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -34,7 +34,7 @@ I'm Currently working on being a C++ developer in order to get better at Robotic
 ---
 [![](https://visitcount.itsvg.in/api?id=sahleyis&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ##  You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dhammajam) 
 
   
